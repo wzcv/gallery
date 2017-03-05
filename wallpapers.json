@@ -1,0 +1,64 @@
+{
+  "wallpapers": [
+    {
+      "author": "Zhichen",
+      "url": "http://wzcv.cf/gallery/1.jpg",
+      "name": "1",
+      "thumbnail": "http://wzcv.cf/gallery/1.jpg"
+    },
+    {
+      "author": "Zhichen",
+      "url": "http://wzcv.cf/gallery/2.png",
+      "name": "2",
+      "thumbnail": "http://wzcv.cf/gallery/2.png"
+    },
+    {
+      "author": "Zhichen",
+      "url": "http://wzcv.cf/gallery/3.png",
+      "name":" 3",
+      "thumbnail": "http://wzcv.cf/gallery/3.png"
+    },
+    {
+      "author": "Zhichen",
+      "url": "http://wzcv.cf/gallery/4.png",
+      "name":" 4",
+      "thumbnail": "http://wzcv.cf/gallery/4.png"
+    },
+    {
+      "author": "Zhichen",
+      "url": "http://wzcv.cf/gallery/5.png",
+      "name":" 5",
+      "thumbnail": "http://wzcv.cf/gallery/5.png"
+    },
+    {
+      "author": "Zhichen",
+      "url": "http://wzcv.cf/gallery/6.png",
+      "name":" 6",
+      "thumbnail": "http://wzcv.cf/gallery/6.png"
+    },
+    {
+      "author": "Zhichen",
+      "url": "http://wzcv.cf/gallery/7.png",
+      "name":" 7",
+      "thumbnail": "http://wzcv.cf/gallery/7.png"
+    },
+    {
+      "author": "Zhichen",
+      "url": "http://wzcv.cf/gallery/8.jpg",
+      "name":" 8",
+      "thumbnail": "http://wzcv.cf/gallery/8.jpg"
+    },
+    {
+      "author": "Zhichen",
+      "url": "http://wzcv.cf/gallery/9.jpg",
+      "name":" 9",
+      "thumbnail": "http://wzcv.cf/gallery/9.jpg"
+    },
+    {
+      "author": "Zhichen",
+      "url": "http://wzcv.cf/gallery/1.png",
+      "name":" 10",
+      "thumbnail": "http://wzcv.cf/gallery/1.png"
+    }
+  ]
+}
